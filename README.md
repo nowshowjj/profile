@@ -1,3 +1,5 @@
-Hello!
+Welcome to my profile README.
 
-My name is J.J. Ayala and welcome to my profile webpage's README. You'll find the link to the website below, hosted on Heroku.
+Check out my website to view projects I've been working on and a short bio:
+
+https://jjayala.com
